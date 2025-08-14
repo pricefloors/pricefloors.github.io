@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My First Post"
-read_time: "☕ 5 min read" # <-- Add this line
+read_time: "1 min read"
 ---
 
 # {{ page.title }}

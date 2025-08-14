@@ -5,8 +5,6 @@ title: Welcome to My Blog
 
 <img src="assets/me.png" width="150" alt="A photo of me smiling">
 
-# My Personal Blog ✍️
-
 Welcome! My name is Name, and this is where I'll be sharing my thoughts and projects.
 
 ---
