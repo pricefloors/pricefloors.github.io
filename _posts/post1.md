@@ -1,8 +1,10 @@
 ---
 layout: default
-title: My First Post
+title: "My First Post"
+read_time: "☕ 5 min read" # <-- Add this line
 ---
 
-# Hello World!
+# {{ page.title }}
+*{{ page.read_time }}* <-- And add this line below the title
 
-This is my first post on GitHub Pages. It was created by just uploading a Markdown file.
+Welcome to my first post! I'm excited to share...
