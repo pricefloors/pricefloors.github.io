@@ -3,9 +3,17 @@ layout: default
 title: Welcome to My Blog
 ---
 
-<img src="assets/me.png" width="150" alt="A photo of me smiling">
-
-Welcome! My name is Name, and this is where I'll be sharing my thoughts and projects.
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <img src="assets/me.png" width="150" alt="A photo of me smiling">
+    </td>
+    <td style="vertical-align: top;">
+      <h1>My Personal Blog ✍️</h1>
+      <p>Welcome! My name is [Your Name], and this is where I'll be sharing my thoughts and projects.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
