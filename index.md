@@ -3,11 +3,11 @@ layout: default
 title: Welcome to My Blog
 ---
 
-![A photo of me](assets/me.png)
+<img src="assets/profile.jpg" width="150" alt="A photo of me smiling">
 
 # My Personal Blog ✍️
 
-Welcome! My name is [Your Name], and this is where I'll be sharing my thoughts and projects. 
+Welcome! My name is [Your Name], and this is where I'll be sharing my thoughts and projects.
 
 ---
 
