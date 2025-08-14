@@ -3,13 +3,12 @@ layout: default
 title: Welcome to My Blog
 ---
 
-<table>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <img src="assets/me.png" width="150" alt="A photo of me smiling">
+<table style="border: none; background: none;">
+  <tr style="border: none; background: none;">
+    <td style="border: none; padding-right: 20px; vertical-align: top;">
+      <img src="assets/profile.jpg" width="150" alt="A photo of me smiling">
     </td>
-    <td style="vertical-align: top;">
-      <h1>My Personal Blog ✍️</h1>
+    <td style="border: none; vertical-align: top;">
       <p>Welcome! My name is [Your Name], and this is where I'll be sharing my thoughts and projects.</p>
     </td>
   </tr>
